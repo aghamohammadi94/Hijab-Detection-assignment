@@ -1,0 +1,1 @@
+{"hijab": 0, "without_hijab": 1}
